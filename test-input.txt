@@ -1,0 +1,11 @@
+http://www.example.com
+ output_file: RURL_OUT.txt
+ header_file: RURL_HEADERS.txt
+http://www.example.com
+ output_file: RURL_OUT.txt
+ header_file: RURL_HEADERS.txt
+ request_id: this is my request id
+http://www.example.com
+ output_file: RURL_OUT.txt
+ header_file: RURL_HEADERS.txt
+
